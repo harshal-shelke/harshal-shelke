@@ -15,11 +15,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋  I'm Harshal Shelke</h1>
 
 ###
 
-<h6 align="left">I'm Harshal Shelke<br><br>- 📚 Final Year Computer Engineering Student<br>- 🧑🏼‍💻 A Enthusiastic Software Engineer</h6>
+<h5 align="left">- 📚 Final Year Computer Engineering Student<br>- 🧑🏼‍💻 Enthusiastic Software Engineer</h5>
 
 ###
 
