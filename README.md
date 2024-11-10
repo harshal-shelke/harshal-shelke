@@ -19,7 +19,7 @@
 
 ###
 
-<h5 align="left">- 📚 Final Year Computer Engineering Student<br>- 🧑🏼‍💻 Enthusiastic Software Engineer</h5>
+<h5 align="left">-  🧑🏼‍💻 Software Engineer</h5>
 
 ###
 
